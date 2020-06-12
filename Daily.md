@@ -10,3 +10,10 @@
 - Google CLOUD NEXT '20 등록
 - Support Vector Machine 개념 및 주요 파라미터 정리
   - (참고) https://bskyvision.com/163
+
+**2020.06.12** 
+
+- edwith boostcourse 한번에 끝내는 디지털 마케팅
+  - 마케팅 채널믹스와 KPI, 구글 애널리틱스의 이해
+- 이력서 수정작업
+- Google Analytics Academy 
