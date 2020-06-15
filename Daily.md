@@ -20,7 +20,7 @@
 
 **2020.06.15**
 
-- [o] Google analytics basic END!
-- [o] Google analytics intermediate 
+- [x] Google analytics basic END!
+- [x] Google analytics intermediate 
   - 1강 완료
-- [o] Hands on Machine Learning 실습
+- [x] Hands on Machine Learning 실습
