@@ -1,5 +1,5 @@
 
-늦었다고 생각할 때는 정말 늦었으니, 오늘부터라도- 
+늦었다고 생각할 때는 정말 늦었으니, 오늘부터라도-
 매일매일 학습내용 기록하기!
 
 
@@ -17,3 +17,10 @@
   - 마케팅 채널믹스와 KPI, 구글 애널리틱스의 이해
 - 이력서 수정작업
 - Google Analytics Academy 
+
+**2020.06.15**
+
+- [ ] Google analytics basic END!
+- [ ] Google analytics intermediate 
+  - 1강 완료
+- [ ] Hands on Machine Learning 실습
