@@ -23,3 +23,8 @@
 - [x] Google analytics intermediate 
   - 1강 완료
 - [x] Hands on Machine Learning 실습
+
+**2020.06.16**
+
+- [X] 프로젝트 최종발표!
+- [X] 생활코딩 git2 -CLI 버전관리편
