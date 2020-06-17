@@ -20,7 +20,7 @@
 **2020.06.15**
 
 - [x] Google analytics basic END!
-- [x] Google analytics intermediate 
+- [x] Google analytics advanced 
   - 1강 완료
 - [x] Hands on Machine Learning 실습
 
@@ -28,3 +28,7 @@
 
 - [X] 프로젝트 최종발표!
 - [X] 생활코딩 git2 -CLI 버전관리편
+
+**2020.06.17**
+
+- [X] Google analytics advanced END!
