@@ -32,3 +32,14 @@
 **2020.06.17**
 
 - [X] Google analytics advanced END!
+
+**2020.06.18**
+
+- [x] fbprophet time-series analysis
+- [x] github blog build
+- [x] django study1
+
+**2020.06.19**
+
+- [X] GAIQ certificate
+- [] Qwiklab : BigQuery For Data Analysis
